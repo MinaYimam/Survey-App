@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Survey-App</string>
+    <string name="no_button">NO</string>
+    <string name="yes_button">YES</string>
+    <string name="question_text">Do you prefer shiro or doro wot?</string>
+    <string name="yesCounter"> </string>
+    <string name="noCounter"> </string>
+    <string name="resetbutton">Reset</string>
+</resources>
