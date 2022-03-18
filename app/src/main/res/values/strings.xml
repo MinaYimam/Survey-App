@@ -6,4 +6,26 @@
     <string name="yesCounter"> </string>
     <string name="noCounter"> </string>
     <string name="resetbutton">Reset</string>
+    <string name="total_no_count_text">total_yes_count_text</string>
+    <string name="total_yes_count_text">total_yes_count_text</string>
+    <string name="reset_button_text">reset_button_text</string>
+    <string name="result_button_text">result_button_text</string>
+    <string name="no_button_text">no_button_text</string>
+    <string name="yes_button_text">yes_button_text</string>
+    <string name="continue_button_text">continue_button_text</string>
+    <string name="current_survey_results">current_survey_results</string>
+    <string name="no_count">no_count</string>
+    <string name="yes_count">yes_count</string>
+    <string name="get_results">results</string>
+    <string name="question_1">Do you like injera?</string>
+    <string name="question_2">Do you like the Minnesota snow?</string>
+    <string name="question_3">Do you like hiking?</string>
+    <string name="question_4">Do you like spending time with you friends?</string>
+    <string name="question_5">Are you attending the Hackathon this year?</string>
+    <string name="question_6">Do you like crying in the rain?</string>
+    <string name="question_7">Did you eat your breakfast today?</string>
+    <string name="keeping_results_message">Survey results saved, continuing on</string>
+    <string name="clearing_results_message">Survey results cleared, let\'s start over</string>
+    <string name="canceled_results_message">No decision made, results kept for now</string>
+
 </resources>

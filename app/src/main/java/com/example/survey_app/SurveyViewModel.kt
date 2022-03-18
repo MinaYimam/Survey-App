@@ -2,8 +2,6 @@ package com.example.surveyapp
 
 import androidx.lifecycle.ViewModel
 
-// SurveyViewModel is used to store the counts across rotations, and contains the functions
-// used to increase the two counts, and resetting the counters.
 class SurveyViewModel: ViewModel() {
 
     var yesCount = 0
